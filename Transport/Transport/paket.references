@@ -1,0 +1,10 @@
+fluentnhibernate
+nservicebus
+nservicebus.persistence.sql
+nservicebus.sqlserver
+nservicebus.structuremap
+nservicebus.log4net
+topshelf
+log4net
+System.ValueTuple
+topshelf.log4net

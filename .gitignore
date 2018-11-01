@@ -1,0 +1,8 @@
+paket-files
+packages
+.vs
+_Ncrunch_ShipmentTracking
+*.ncrunchsolution
+*.ncrunchsolution.user
+bin
+obj

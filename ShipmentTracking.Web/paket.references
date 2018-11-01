@@ -1,0 +1,9 @@
+Microsoft.AspNet.WebApi
+Microsoft.AspNet.WebApi.Client
+Microsoft.AspNet.WebApi.Core
+Microsoft.AspNet.WebApi.WebHost
+Microsoft.CodeDom.Providers.DotNetcompilerPlatform
+Newtonsoft.Json
+fluentnhibernate
+nservicebus
+structuremap

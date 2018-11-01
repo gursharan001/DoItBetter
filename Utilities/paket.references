@@ -1,0 +1,5 @@
+nunit
+structuremap
+nhibernate
+nservicebus.testing
+fluentassertions
